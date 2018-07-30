@@ -1,0 +1,35 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main-container{
+
+}
+body{
+/*background: #f1f1f1;*/
+font-family: 'Quicksand', sans-serif;
+}
+.main-nav{
+	background: #fff;
+	border-radius: 0px;
+	padding: 0px !important;
+	height: 30px !important;
+ 
+}
+.main-nav ul li{
+	border-radius: 20px;
+	padding: 0px!important;
+}
+/*Navbar Serach*/
+.nav-serach{
+	margin-top: 7px !important;
+	border-radius: 0px;
+}
+.logo{
+	width: 57px;
+	height:57px;margin-top: -40px;
+	margin-left: 5px;
+}
+.main-content{
+	/*min-height: 1000px;*/
+}
